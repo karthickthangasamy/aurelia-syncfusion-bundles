@@ -10,12 +10,13 @@ System.config({
     "optional": []
   },
   paths: {
-    "github:*": "jspm_packages/github/*",
-    "npm:*": "jspm_packages/npm/*",
-    "common/ej.*": "jspm_packages/github/syncfusion/JavaScript-Widgets@14.2.26/Scripts/ej/common/ej.*.js",
-    "datavisualization/ej.*": "jspm_packages/github/syncfusion/JavaScript-Widgets@14.2.26/Scripts/ej/datavisualization/ej.*.js",
-    "ej.*": "jspm_packages/github/syncfusion/JavaScript-Widgets@14.2.26/Scripts/ej/web/ej.*.js",
-    "syncfusion-javascript/*": "jspm_packages/github/syncfusion/JavaScript-Widgets@14.2.26/*"
+    "github:*": "https://rawgit.com/karthickthangasamy/aurelia-syncfusion-bundles/0.0.2/jspm_packages/github/*/*",
+    "npm:*": "https://rawgit.com/karthickthangasamy/aurelia-syncfusion-bundles/0.0.2/jspm_packages/npm/*",
+    "common/ej.*": "https://rawgit.com/karthickthangasamy/aurelia-syncfusion-bundles/0.0.2/jspm_packages/github/syncfusion/JavaScript-Widgets@14.2.26/Scripts/ej/common/ej.*.js",
+    "datavisualization/ej.*": "https://rawgit.com/karthickthangasamy/aurelia-syncfusion-bundles/0.0.2/jspm_packages/github/syncfusion/JavaScript-Widgets@14.2.26/Scripts/ej/datavisualization/ej.*.js",
+    "ej.*": "https://rawgit.com/karthickthangasamy/aurelia-syncfusion-bundles/0.0.2/jspm_packages/github/syncfusion/JavaScript-Widgets@14.2.26/Scripts/ej/web/ej.*.js",
+    "syncfusion-javascript/*": "https://rawgit.com/karthickthangasamy/aurelia-syncfusion-bundles/0.0.2/jspm_packages/github/syncfusion/JavaScript-Widgets@14.2.26/*",
+    "bundles/bundle.js": "https://rawgit.com/karthickthangasamy/aurelia-syncfusion-bundles/0.0.2/bundles/bundle.js"
   },
   map: {
     "aurelia-animator-css": "npm:aurelia-animator-css@1.0.0",
