@@ -56,13 +56,6 @@
   "npm:ieee754@1.1.6": {},
   "npm:base64-js@0.0.8": {},
   "github:jspm/nodelibs-child_process@0.1.0": {},
-  "github:syncfusion/JavaScript-Widgets@14.2.26": {
-    "jquery": "npm:jquery",
-    "jquery-easing": "npm:jquery-easing",
-    "jsrender": "npm:jsrender",
-    "jquery-validation": "npm:jquery-validation",
-    "jquery-validation-unobtrusive": "npm:jquery-validation-unobtrusive"
-  },
   "npm:jquery-validation-unobtrusive@3.2.6": {
     "jquery": "npm:jquery",
     "jquery-validation": "npm:jquery-validation"
@@ -77,9 +70,6 @@
     "through2": "npm:through2@^2.0.0",
     "fs": "github:jspm/nodelibs-fs@^0.1.0",
     "path": "github:jspm/nodelibs-path@^0.1.0"
-  },
-  "npm:jquery-easing@0.0.1": {
-    "jquery": "npm:jquery"
   },
   "npm:xtend@4.0.1": {},
   "npm:string_decoder@0.10.31": {
@@ -153,11 +143,6 @@
     "aurelia-templating-binding": "npm:aurelia-templating-binding@^1.0.0",
     "aurelia-templating-resources": "npm:aurelia-templating-resources@^1.0.0",
     "aurelia-templating-router": "npm:aurelia-templating-router@^1.0.0"
-  },
-  "npm:process@0.11.6": {
-    "assert": "github:jspm/nodelibs-assert@^0.1.0",
-    "vm": "github:jspm/nodelibs-vm@^0.1.0",
-    "fs": "github:jspm/nodelibs-fs@^0.1.0"
   },
   "npm:aurelia-task-queue@1.0.0": {
     "aurelia-pal": "npm:aurelia-pal@^1.0.0"
@@ -264,5 +249,24 @@
     "aurelia-metadata": "npm:aurelia-metadata@^1.0.0",
     "aurelia-pal": "npm:aurelia-pal@^1.0.0",
     "aurelia-task-queue": "npm:aurelia-task-queue@^1.0.0"
+  },
+  "npm:jquery-easing@0.0.1": {
+    "jquery": "npm:jquery"
+  },
+  "npm:jquery-validation@1.15.1": {
+    "jquery": "npm:jquery@^2.0.0",
+    "process": "github:jspm/nodelibs-process@^0.1.0"
+  },
+  "npm:process@0.11.7": {
+    "assert": "github:jspm/nodelibs-assert@^0.1.0",
+    "vm": "github:jspm/nodelibs-vm@^0.1.0",
+    "fs": "github:jspm/nodelibs-fs@^0.1.0"
+  },
+  "npm:syncfusion-javascript@14.2.28": {
+    "jquery": "npm:jquery",
+    "jquery-easing": "npm:jquery-easing",
+    "jsrender": "npm:jsrender",
+    "jquery-validation": "npm:jquery-validation",
+    "jquery-validation-unobtrusive": "npm:jquery-validation-unobtrusive"
   }
 }
