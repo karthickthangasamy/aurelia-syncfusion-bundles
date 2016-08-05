@@ -12,10 +12,10 @@ System.config({
   paths: {
     "github:*": "https://rawgit.com/karthickthangasamy/aurelia-syncfusion-bundles/0.0.3/jspm_packages/github/*/*",
     "npm:*": "https://rawgit.com/karthickthangasamy/aurelia-syncfusion-bundles/0.0.3/jspm_packages/npm/*",
-    "common/ej.*": "https://rawgit.com/karthickthangasamy/aurelia-syncfusion-bundles/0.0.3/jspm_packages/github/syncfusion/JavaScript-Widgets@14.2.26/Scripts/ej/common/ej.*.js",
-    "datavisualization/ej.*": "https://rawgit.com/karthickthangasamy/aurelia-syncfusion-bundles/0.0.3/jspm_packages/github/syncfusion/JavaScript-Widgets@14.2.26/Scripts/ej/datavisualization/ej.*.js",
-    "ej.*": "https://rawgit.com/karthickthangasamy/aurelia-syncfusion-bundles/0.0.3/jspm_packages/github/syncfusion/JavaScript-Widgets@14.2.26/Scripts/ej/web/ej.*.js",
-    "syncfusion-javascript/*": "https://rawgit.com/karthickthangasamy/aurelia-syncfusion-bundles/0.0.3/jspm_packages/github/syncfusion/JavaScript-Widgets@14.2.26/*",
+    "common/ej.*": "https://rawgit.com/karthickthangasamy/aurelia-syncfusion-bundles/0.0.3/jspm_packages/npm/syncfusion-javascript@14.2.28/Scripts/ej/common/ej.*.js",
+    "datavisualization/ej.*": "https://rawgit.com/karthickthangasamy/aurelia-syncfusion-bundles/0.0.3/jspm_packages/npm/syncfusion-javascript@14.2.28/Scripts/ej/datavisualization/ej.*.js",
+    "ej.*": "https://rawgit.com/karthickthangasamy/aurelia-syncfusion-bundles/0.0.3/jspm_packages/github/npm/syncfusion-javascript@14.2.28/Scripts/ej/web/ej.*.js",
+    "syncfusion-javascript/*": "https://rawgit.com/karthickthangasamy/aurelia-syncfusion-bundles/0.0.3/npm/syncfusion-javascript@14.2.28/JavaScript-Widgets@14.2.26/*",
     "bundles/bundle.js": "https://rawgit.com/karthickthangasamy/aurelia-syncfusion-bundles/0.0.3/bundles/bundle.js"
   },
   map: {
