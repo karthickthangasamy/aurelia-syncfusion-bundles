@@ -43,18 +43,7 @@ var bundle = [
 module.exports = {
   "bundles": {
     "bundles/bundle": {
-      "includes": bundle      
-    }
-  }
-}
-
-var ejBundle = [
-
-];
-module.exports = {
-  "bundles-ej": {
-    "bundles/ejBundle":{
-      include: ejBundle,
+      "includes": bundle,
       "excludes": [          
           "[syncfusion-javascript/Scripts/ej/jquery.unobtrusive-ajax.min.js]",
           "[syncfusion-javascript/Scripts/ej/jquery.validate.unobtrusive.min.js]",
