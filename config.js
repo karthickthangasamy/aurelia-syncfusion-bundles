@@ -12,10 +12,10 @@ System.config({
   paths: {
     "github:*": "jspm_packages/github/*",
     "npm:*": "jspm_packages/npm/*",
-    "common/ej.*": "jspm_packages/github/syncfusion/JavaScript-Widgets@14.2.28/Scripts/ej/common/ej.*.js",
-    "datavisualization/ej.*": "jspm_packages/github/syncfusion/JavaScript-Widgets@14.2.28/Scripts/ej/datavisualization/ej.*.js",
-    "ej.*": "jspm_packages/github/syncfusion/JavaScript-Widgets@14.2.28/Scripts/ej/web/ej.*.js",
-    "syncfusion-javascript/*": "jspm_packages/github/syncfusion/JavaScript-Widgets@14.2.28/*"
+    "common/ej.*": "jspm_packages/npm/syncfusion-javascript@14.2.28/Scripts/ej/common/ej.*.js",
+    "datavisualization/ej.*": "jspm_packages/npm/syncfusion-javascript@14.2.28/Scripts/ej/datavisualization/ej.*.js",
+    "ej.*": "jspm_packages/github/syncfusion/npm/syncfusion-javascript@14.2.28/Scripts/ej/web/ej.*.js",
+    "syncfusion-javascript/*": "jspm_packages/npm/syncfusion-javascript@14.2.28/*"
   },
   map: {
     "aurelia-animator-css": "npm:aurelia-animator-css@1.0.0",
